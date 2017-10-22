@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/kaxcode/node-gato/issues"
   },
-  "homepage": "https://github.com/kaxcode/node-gato#readme"
+  "homepage": "https://github.com/kaxcode/node-gato#readme",
+  "dependencies": {
+    "consolidate": "^0.14.5",
+    "express": "^4.16.2",
+    "mongodb": "^2.2.33"
+  }
 }
